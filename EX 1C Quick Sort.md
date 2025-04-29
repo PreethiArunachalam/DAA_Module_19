@@ -4,11 +4,11 @@
 To write a python program to implement quick sort using recursion.
 
 ## Algorithm
-1.Define a function partition() to place the pivot in correct position by rearranging elements
-2.Define a function quick_sort() that recursively sorts the array using the partition index
-3.Read the number of elements n and take input elements into the list arr
-4.Call quick_sort(arr, 0, len(arr)-1) to start sorting the array
-5.Print the sorted array arr  
+1. Define a function partition() to place the pivot in correct position by rearranging elements
+2. Define a function quick_sort() that recursively sorts the array using the partition index
+3. Read the number of elements n and take input elements into the list arr
+4. Call quick_sort(arr, 0, len(arr)-1) to start sorting the array
+5. Print the sorted array arr  
 
 ## Program:
 ```
@@ -48,4 +48,4 @@ print(arr)
 ![image](https://github.com/user-attachments/assets/93d40482-62e3-481c-8b0a-583ec1236201)
 
 ## Result:
-The program successfully sorts the input array using the QuickSort algorithm, arranging the elements in ascending order.
+The program successfully sorts the input array using the QuickSort algorithm.
