@@ -4,11 +4,11 @@
 To write a python program for a search function with parameter list name and the value to be searched using string values.
 
 ## Algorithm
-1.Read the number of elements and store them in a list List
-2.Read the value n to search in the list
-3.Loop through each element in List
-4.If an element matches n, print "Found" and stop the loop
-5.If the loop completes without a match, print "Not Found" 
+1. Read the number of elements and store them in a list List
+2. Read the value n to search in the list
+3. Loop through each element in List
+4. If an element matches n, print "Found" and stop the loop
+5. If the loop completes without a match, print "Not Found" 
 
 ## Program:
 ```
